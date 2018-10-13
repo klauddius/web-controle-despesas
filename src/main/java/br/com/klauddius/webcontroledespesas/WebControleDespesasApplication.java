@@ -1,4 +1,4 @@
-package br.com.klauddius.ctrldspsas.webcontroledespesas;
+package br.com.klauddius.webcontroledespesas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
